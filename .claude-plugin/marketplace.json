@@ -1,0 +1,18 @@
+{
+  "name": "equalai",
+  "owner": {
+    "name": "EqualAI",
+    "email": "team@equalai.io",
+    "url": "https://www.equalai.io"
+  },
+  "metadata": {
+    "description": "The EqualAI plugin for Claude: AI-visibility data from your EqualAI projects."
+  },
+  "plugins": [
+    {
+      "name": "equalai",
+      "source": "./",
+      "description": "Ask Claude how your brand shows up in AI answers, using your EqualAI projects. Read-only."
+    }
+  ]
+}

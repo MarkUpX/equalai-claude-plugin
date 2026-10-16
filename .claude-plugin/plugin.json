@@ -1,0 +1,14 @@
+{
+  "name": "equalai",
+  "displayName": "EqualAI",
+  "version": "1.0.0",
+  "description": "Ask Claude how your brand shows up in AI answers. Reads your EqualAI projects: mention rate and visibility score by AI model, weakest and strongest prompts, competitor mentions, the sources AI models cite, and what they actually answered. Read-only.",
+  "author": {
+    "name": "EqualAI",
+    "email": "team@equalai.io",
+    "url": "https://www.equalai.io"
+  },
+  "homepage": "https://www.equalai.io/mcp/",
+  "license": "MIT",
+  "keywords": ["ai-visibility", "geo", "aeo", "brand-monitoring", "share-of-voice", "citations", "competitors", "seo"]
+}
